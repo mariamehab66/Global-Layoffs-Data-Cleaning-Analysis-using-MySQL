@@ -42,9 +42,13 @@ This project explores the **Global Layoffs Dataset** through two main stages:
 ---
 
 ## 🎥 Project Interactive Video
+Watch the full walkthrough of the project here:  
+[![Watch Video](https://img.shields.io/badge/Watch_on-Vimeo-blue?logo=vimeo)](https://vimeo.com/1128496534?share=copy&fl=sv&fe=ci)
 
-[![Watch the video](./Screenshot 2025-10-18 210527.png)](https://vimeo.com/1128496534?share=copy&fl=sv&fe=ci)
+---
 
-> 🔗 **Click the image above** to watch the full project walkthrough on Vimeo.
+## 🖼️ Project Screenshot
+![Project Dashboard Screenshot](./Screenshot%202025-10-18%20210527.png)
+*Figure 1: Overview of the dashboard and main findings.*
 
 ---
