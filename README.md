@@ -43,12 +43,8 @@ This project explores the **Global Layoffs Dataset** through two main stages:
 
 ## 🎥 Project Interactive Video
 
-[![Watch the video](https://img.youtube.com/vi/1.jpg)](https://vimeo.com/1128496534?share=copy&fl=sv&fe=ci)
+[![Watch the video](./Screenshot 2025-10-18 210527.png)](https://vimeo.com/1128496534?share=copy&fl=sv&fe=ci)
 
 > 🔗 **Click the image above** to watch the full project walkthrough on Vimeo.
 
 ---
-
-## Dataset Source
-
-The dataset used in this project was provided by [Maven Analytics](https://mavenanalytics.io/) and focuses on global layoffs data across industries and years.
